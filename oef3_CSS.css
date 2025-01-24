@@ -1,0 +1,30 @@
+.background{
+    background-color: khaki;
+}
+.blok{
+    display: block;
+    background-color: darkseagreen;
+    width: 1365px;
+    height: 447px;
+    margin-left: -7px;
+    margin-top: 30px;
+
+}
+.prijs{
+    position: relative;
+    left: 200px;
+    display: flex;
+    margin-left: 400px;
+    margin-top: -20px;
+
+}
+.blok_menu{
+    width: 1345px;
+    background-color: greenyellow;
+    height: 600px ;
+    display: block;
+    text-align: center;
+
+
+}
+
